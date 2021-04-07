@@ -7,4 +7,5 @@ Exercises inspired by [Tensors for Beginners](https://www.youtube.com/playlist?l
 - [Find covector components given a rotation of vector space](https://github.com/javierdejuan/Maths-Models/blob/master/Tensor%20Algebra/covectors/exercise%202.pdf)
 - [Find covector components in a non-orthonormal basis transformation](https://github.com/javierdejuan/Maths-Models/blob/master/Tensor%20Algebra/covectors/exercise%203.pdf)
 
+### Linear Maps
 
