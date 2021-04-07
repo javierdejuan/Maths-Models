@@ -1,7 +1,8 @@
-### [The HSL Metric Tensor](https://github.com/javierdejuan/Machine-Learning-Deep-Learning-Python-Scala/blob/master/HSL%20Metric%20Tensor.pdf)
-A mathematical model to separate colors using its coordinates (hue,starutation,light) in an cylindrical space.
+### [Backwards / Forwards Transformation ](https://github.com/javierdejuan/Machine-Learning-Deep-Learning-Python-Scala/blob/master/HSL%20Metric%20Tensor.pdf)
+[Find trigonometric expressions for $cos(\alpha+\betha), sin(\alpha+\betha)$](google.com)
 
-### [How to build an Equirectangular Grid](https://github.com/javierdejuan/Machine-Learning-Deep-Learning-Python-Scala/blob/master/differential_geometry/geodesics.md)
-A differential geometry approach to calculate geodesics in a 2-sphere
+### [Covectors ](https://github.com/javierdejuan/Machine-Learning-Deep-Learning-Python-Scala/blob/master/differential_geometry/geodesics.md)
+-[Find covector components given a rotation of vector space](google.com)
+-[Find covector components in a non-orthonormal basis transformation](google.com)
 
 
